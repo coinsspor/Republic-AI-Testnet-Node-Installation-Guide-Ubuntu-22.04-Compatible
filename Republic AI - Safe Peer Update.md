@@ -1,6 +1,6 @@
 
 
-## Safe Update (Recommended)
+## Safe PEER Update (Recommended)
 
 This script includes validation and automatic backup.
 
